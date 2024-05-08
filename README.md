@@ -1,8 +1,8 @@
 # my_first_app
 
-A new Flutter project.
-Para este proyecto se duplico el dado para que puedan tener 2 dados y puedan ser randomizados los 2.
-Ademas, se cambio el color dentro del bloque de dice_roller del primer plano para poder diferenciar los 2 dados mostrados y se agrego negritas al texto.
+A new Flutter project by Laura Sanromán.
+Para este proyecto se duplicó el dado para que puedan tener 2 dados y puedan ser randomizados los 2.
+Además, se cambió el color dentro del bloque de dice_roller.dart del primer plano para poder diferenciar los 2 dados mostrados y se agregó negritas al texto dentro de styled_text.dart.
 
 ## Getting Started
 
